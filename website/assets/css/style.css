@@ -46,6 +46,10 @@ body {
   color: rgb(100, 100, 224);
 }
 
+.cards-padding {
+  gap: 15px;
+}
+
 /* Contact style */
 .contact-form {
   padding: 50px 100px 0px 100px;
